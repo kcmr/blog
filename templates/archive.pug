@@ -10,9 +10,9 @@ block content
   - for (var archive in archives) {
   -   archives[archive] = _.groupBy(archives[archive], function(item) { return item.date.getMonth(); });
   - }
-  - var month_names = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+  - var month_names = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre']
   section.archive
-    h2 Archive
+    h2 Archivo
     ul
       - var yearsK = _.chain(archives).keys().reverse().value();
       each yearK in yearsK
