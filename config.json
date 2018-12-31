@@ -3,8 +3,10 @@
     "url": "http://localhost:8080",
     "name": "Vamos por partes",
     "owner": "@kcmr",
-    "description": "Como dijo Jack"
+    "description": "Como dijo Jack",
+    "site": "https://kcmr.github.io/blog"
   },
+  "baseUrl": ".",
   "plugins": [
     "./plugins/paginator.coffee"
   ],
