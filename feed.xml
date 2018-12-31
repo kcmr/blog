@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vamos por partes</title>
+    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://localhost:8080</link>
+    <description>Como dijo Jack</description>
+    <pubDate>Mon, 31 Dec 2018 15:00:00 +0000</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Hola mundo (y 2019)</title>
+      <link>http://localhost:8080articles/hola-mundo/</link>
+      <pubDate>Mon, 31 Dec 2018 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://localhost:8080articles/hola-mundo/</guid>
+      <author></author>
+      <description>&lt;p&gt;Primer post de prueba con título original. Ideal para un día tan señalado y lleno de propósitos (frustrados) para el nuevo año que está a punto de comenzar.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Medium mola y no da dolores de cabeza, pero lo de que no tenga un editor de código en condiciones me mata, así que… ¿por qué no? Un blog generado con uno de tantos generadores de sitios estáticos (&lt;a href=&quot;https://github.com/jnordberg/wintersmith&quot;&gt;wintersmith&lt;/a&gt; en este caso) y alojado en Github Pages, que no cuesta un duro.&lt;/p&gt;
+&lt;p&gt;Y con esto y un bizcocho, adiós 2018.&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
